@@ -31,7 +31,7 @@ NSString * const kAFOAuthClientCredentialsGrantType = @"client_credentials";
 NSString * const kAFOAuthPasswordCredentialsGrantType = @"password";
 NSString * const kAFOAuthRefreshGrantType = @"refresh_token";
 
-NSString * const kAFOAuth2CredentialServiceName = @"AFOAuthCredentialService";
+NSString * const kAFOAuth2CredentialServiceName = @"Snippets.me Account Credentials";
 
 static NSDictionary * AFKeychainQueryDictionaryWithIdentifier(NSString *identifier) {
     NSCParameterAssert(identifier);
